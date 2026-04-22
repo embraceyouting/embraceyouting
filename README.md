@@ -1,6 +1,6 @@
 <!-- 动态打字标题 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38C2FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+embraceyouting+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;UESTC+%7C+USTC+%F0%9F%8E%93;Code+%26+Create+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38C2FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+embraceyouting+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;UESTC+%F0%9F%8E%93;Code+%26+Create+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <!-- 社交徽章（不含个人联系方式） -->
@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/GitHub-embraceyouting-181717?logo=github" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=embraceyouting&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-immortality.vercel.app/api?username=embraceyouting&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="修仙 GitHub Stats" />
 </div>
 
 ## 👨‍💻 About Me
@@ -37,14 +41,12 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=embraceyouting&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  ![GitHub Stats](https://github-immortality.vercel.app/api?username=YOUR_USERNAME)
+  <img height="180em" src="https://streak-stats.demolab.com?user=embraceyouting&theme=synthwave&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ## 📫 Let's Connect
 
-- 💬 **Open for**: Frontend development opportunities & collaborations
-- 📧 **Email**: Available upon request (or use GitHub private contact)
+- 📧 **Email**: 2407958658@qq.com or embraceyou30@gmail.com
 
 ---
 
