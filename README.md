@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=embraceyouting)
 <!--
 **embraceyouting/embraceyouting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
