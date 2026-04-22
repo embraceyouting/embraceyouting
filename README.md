@@ -38,6 +38,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=embraceyouting&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  ![GitHub Stats](https://github-immortality.vercel.app/api?username=YOUR_USERNAME)
 </div>
 
 ## 📫 Let's Connect
