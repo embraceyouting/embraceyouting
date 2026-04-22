@@ -1,6 +1,6 @@
 <!-- 动态打字标题 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38C2FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Leng+Rui+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;UESTC+%7C+USTC+%F0%9F%8E%93;Code+%26+Create+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38C2FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+embraceyouting+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;UESTC+%7C+USTC+%F0%9F%8E%93;Code+%26+Create+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <!-- 社交徽章（不含个人联系方式） -->
