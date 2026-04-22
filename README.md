@@ -41,10 +41,6 @@
   <img src="https://streak-stats.demolab.com?user=embraceyouting&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=embraceyouting&theme=tokyonight&row=1&column=6&no-frame=false&no-bg=false" alt="GitHub Trophies" />
-</div>
-
 ## 📫 Let's Connect
 
 - 💬 **Open for**: Frontend development opportunities & collaborations
