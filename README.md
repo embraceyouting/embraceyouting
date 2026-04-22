@@ -14,7 +14,6 @@
 ## 👨‍💻 About Me
 
 🎓 **UESTC** (2022-2026) · B.E. in Software Engineering 
-🎓 **USTC** (2026-) · M.E. in Computer Science  
 
 💡 Passionate frontend developer with full-stack capabilities.  
 🚀 Love building intuitive web experiences and solving challenging problems.  
